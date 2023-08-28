@@ -11,7 +11,8 @@
 
 console.log('i');
 setTimeout(doSomething,2000);
+// doSomething()
 console.log('Ice-creme');
 function doSomething(params) {
         console.log("eat")
-    }
+}
